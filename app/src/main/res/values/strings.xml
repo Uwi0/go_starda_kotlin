@@ -2,4 +2,9 @@
     <string name="app_name">Go Strada</string>
     <string name="welcome_to">Welcome to</string>
     <string name="iik2_starda">IIK STRADA</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="nim">NIM</string>
+    <string name="password">Password</string>
 </resources>

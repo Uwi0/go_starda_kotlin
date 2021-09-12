@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable-v24/bg_bottom_splash.xml" value="0.225" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable/custom_cursor_login.xml" value="0.2740740740740741" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable/ic_bg_btn_login.xml" value="0.2740740740740741" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable/ic_lock.xml" value="0.2740740740740741" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/font-v26/poppins.xml" value="0.22870370370370371" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/font/poppins.xml" value="0.22870370370370371" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/activity_login.xml" value="0.24139492753623187" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/activity_main.xml" value="0.266304347826087" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/activity_splash_screen.xml" value="0.25677083333333334" />
       </map>

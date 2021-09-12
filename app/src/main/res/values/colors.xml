@@ -9,4 +9,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="ship_gray">#403D43</color>
     <color name="gamboge">#F19409</color>
+    <color name="white65">#A6FFFFFF</color>
+    <color name="curious_blue">#1E7CD3</color>
+    <color name="edge_water50">#80C9E1DC</color>
+    <color name="cutty_shark70">#B3527B7E</color>
+    <color name="bazaar70">#B3998383</color>
 </resources>
