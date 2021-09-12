@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Go Strada</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="iik2_starda">IIK STRADA</string>
 </resources>
