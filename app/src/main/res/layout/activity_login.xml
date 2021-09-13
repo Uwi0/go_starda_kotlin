@@ -9,7 +9,7 @@
 
     <ImageView
         android:id="@+id/imageView5"
-        android:layout_width="209dp"
+        android:layout_width="0dp"
         android:layout_height="57dp"
         android:layout_marginTop="60dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -20,8 +20,9 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
         android:layout_marginTop="32dp"
         android:fontFamily="@font/poppins"
         android:text="@string/sign_in"
@@ -34,9 +35,10 @@
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout"
-        android:layout_width="292dp"
+        android:layout_width="0dp"
         android:layout_height="50dp"
         android:layout_marginTop="42dp"
+        android:layout_marginEnd="50dp"
         android:textColorHint="@color/cutty_shark70"
         app:boxStrokeColor="@color/bazaar70"
         app:hintTextColor="@color/cutty_shark70"
@@ -86,9 +88,11 @@
     <Button
         android:id="@+id/btn_login"
         style="@style/Widget.MaterialComponents.Button.TextButton"
-        android:layout_width="212dp"
+        android:layout_width="0dp"
         android:layout_height="48dp"
+        android:layout_marginStart="20dp"
         android:layout_marginTop="64dp"
+        android:layout_marginEnd="20dp"
         android:backgroundTint="@color/curious_blue"
         android:fontFamily="@font/poppins"
         android:text="@string/login"

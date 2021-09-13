@@ -7,4 +7,23 @@
     <string name="forgot_password">Forgot password ?</string>
     <string name="nim">NIM</string>
     <string name="password">Password</string>
+    <string name="menu_open">Menu Open</string>
+    <string name="qr_code">QR Code</string>
+    <string name="student_activity">Student Activity</string>
+    <string name="image_bg_main">Image Dashboard</string>
+    <string name="semester">Semester V/T.A 2021/2020</string>
+    <string name="ipk">IPK</string>
+    <string name="nilai_ipk">3.52</string>
+    <string name="ip_sem">IP Sem IV</string>
+    <string name="nilai_ip_sem">3.21</string>
+    <string name="spp">SPP</string>
+    <string name="nilai_spp">-4.500.000-</string>
+    <string name="sks">SKS</string>
+    <string name="nilai_sks">96</string>
+    <string name="sisa_sks">Sisa SKS</string>
+    <string name="nilai_sisa_sks">100</string>
+    <string name="mk_sem">MK Sem V</string>
+    <string name="nilai_mk_sem">5</string>
+    <string name="sks_sem">SKS Sem V</string>
+    <string name="nilai_sks_sem">20</string>
 </resources>
