@@ -26,4 +26,20 @@
     <string name="nilai_mk_sem">5</string>
     <string name="sks_sem">SKS Sem V</string>
     <string name="nilai_sks_sem">20</string>
+    <string name="home">Home</string>
+    <string name="activity">Activity</string>
+    <string name="menu_class">Class</string>
+    <string name="consult">Consult</string>
+    <string name="nama_user">Hendrik Chrisnaedy</string>
+    <string name="jurusan_user">S1 Kesehatan Masyarakat</string>
+    <string name="nim_user">211120002</string>
+    <string name="kalender_akademik">Kalender Akademik</string>
+    <string name="jadwal_kuliah">Jadwal Kuliah</string>
+    <string name="absensi">Absensi</string>
+    <string name="request_surat">Request Surat</string>
+    <string name="riwayat_krs">Riwayat KRS</string>
+    <string name="lihat_khs">Lihat KHS</string>
+    <string name="transkrip_nilai">Transkrip Nilai</string>
+    <string name="pembayaran_spp">Pembayaran SPP</string>
+    <string name="non_akademik">Non Akademik</string>
 </resources>

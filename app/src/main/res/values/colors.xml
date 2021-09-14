@@ -20,6 +20,9 @@
     <color name="scorpion">#716363</color>
     <color name="hurricane">#958585</color>
     <color name="trout65">#A651545F</color>
-    <color  name="tundora65">#A64E4343</color>
+    <color name="trout">#51545F</color>
+    <color name="tundora65">#A64E4343</color>
     <color name="dixie">#DE901A</color>
+    <color name="junggle_mist">#B7D4D7</color>
+    <color name="gray_suit">#CFCCD1</color>
 </resources>
