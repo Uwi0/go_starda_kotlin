@@ -17,4 +17,8 @@
     <style name="Theme.GoStrada.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:statusBarColor" tools:targetApi="l">@color/ship_gray</item>
     </style>
+
+    <style name="PoppinsView" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
 </resources>

@@ -8,6 +8,32 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        tools:openDrawer="right">
 
+        <include
+            android:id="@+id/content_main"
+            layout="@layout/content_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <com.google.android.material.navigation.NavigationView
+            android:id="@+id/nav_view_drawer"
+            style="@style/Widget.Design.NavigationView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/ship_gray"
+            app:itemIconTint="@color/edge_water50"
+            app:itemTextColor="@color/edge_water50"
+            app:itemTextAppearance="@style/PoppinsView"
+            android:layout_gravity="end"
+            app:menu="@menu/drawer_nav_menu"
+            app:headerLayout="@layout/nav_header_main"/>
+
+    </androidx.drawerlayout.widget.DrawerLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
