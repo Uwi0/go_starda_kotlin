@@ -21,7 +21,7 @@
         android:label="activity_fragment"
         tools:layout="@layout/activity_fragment" />
     <fragment
-        android:id="@+id/navigation_consults"
+        android:id="@+id/navigation_consult"
         android:name="com.kakapo.gostrada.fragment.consult.ConsultFragment"
         android:label="consult_fragment"
         tools:layout="@layout/consult_fragment" />

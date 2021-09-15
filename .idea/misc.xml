@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable-v24/bg_bottom_splash.xml" value="0.225" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable/bg_bottom_navigation.xml" value="0.2537037037037037" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable/bottom_navigation_icon.xml" value="0.15989583333333332" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable/custom_cursor_login.xml" value="0.2740740740740741" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable/ic_absensi.xml" value="0.25092592592592594" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/drawable/ic_bg_btn_login.xml" value="0.2740740740740741" />
@@ -29,12 +30,12 @@
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/activity_splash_screen.xml" value="0.25677083333333334" />
-        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/class_fragment.xml" value="0.22282608695652173" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/class_fragment.xml" value="0.264" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/consult_fragment.xml" value="0.22282608695652173" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/content_main.xml" value="0.2368659420289855" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/custom_app_bar.xml" value="0.4" />
-        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/custom_bottom_navigation.xml" value="0.12" />
-        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/home_fragment.xml" value="0.72" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/custom_bottom_navigation.xml" value="0.264" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/home_fragment.xml" value="0.6516034985422741" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/layout/nav_header_main.xml" value="0.264" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.27447916666666666" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/kotlin/app/src/main/res/menu/drawer_nav_menu.xml" value="0.27447916666666666" />
@@ -50,7 +51,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.16" />
+        <option name="scale" value="0.264" />
       </ProjectState>
     </option>
   </component>
