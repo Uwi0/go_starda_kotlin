@@ -2,6 +2,10 @@ package com.kakapo.gostrada
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Gravity
+import android.widget.ImageButton
+import androidx.core.view.GravityCompat
+import androidx.drawerlayout.widget.DrawerLayout
 import androidx.navigation.NavController
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
@@ -18,8 +22,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         mBinding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(mBinding.root)
-        setSupportActionBar(mBinding.contentMain.customAppbar.toolbar)
-        supportActionBar!!.setDisplayShowTitleEnabled(false)
 
         val navView: BottomNavigationView = mBinding.contentMain.bottomNavigation.navView
 

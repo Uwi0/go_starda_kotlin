@@ -42,4 +42,7 @@
     <string name="transkrip_nilai">Transkrip Nilai</string>
     <string name="pembayaran_spp">Pembayaran SPP</string>
     <string name="non_akademik">Non Akademik</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="icon_bell">icon bell</string>
+    <string name="icon_message">icon message</string>
 </resources>
