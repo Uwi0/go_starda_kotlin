@@ -32,4 +32,15 @@ class MainActivity : AppCompatActivity() {
     override fun onSupportNavigateUp(): Boolean {
         return NavigationUI.navigateUp(navController, null)
     }
+
+
+    fun openDrawer(){
+        val drawerLayout: DrawerLayout = mBinding.drawerLayout
+
+        if (drawerLayout.isDrawerOpen(GravityCompat.END)){
+            drawerLayout.closeDrawer(GravityCompat.START)
+        }else{
+            drawerLayout.openDrawer(GravityCompat.END)
+        }
+    }
 }
